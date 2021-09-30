@@ -3,8 +3,8 @@ import { nanoid } from 'nanoid';
 // HEAD DATA
 export const headData = {
   title: 'Ryan Musa | IT Student', // e.g: 'Name | Developer'
-  lang: '', // e.g: en, es, fr, jp
-  description: '', // e.g: Welcome to my website
+  lang: 'en', // e.g: en, es, fr, jp
+  description: 'Welcome to my Portfolio', // e.g: Welcome to my website
 };
 
 // HERO DATA
@@ -22,7 +22,8 @@ export const aboutData = {
     'Hi, my name is Ryan Otayde Musa. I am a fresh IT graduate of Cebu Institute of Technology - University',
   paragraphTwo:
     'I love exploring new knowledge especially when it comes to Technology and Art. That is why I am pursuing on being a Front-End Developer',
-  paragraphThree: '',
+  paragraphThree:
+    'I am currently learning how to be a developer and exploring new knowledge in my field',
   resume: 'https://www.resumemaker.online/es.php', // if no resume, the button will not show up
 };
 
